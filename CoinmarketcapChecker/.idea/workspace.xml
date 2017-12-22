@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84e3cd14-4d20-43da-9c3f-a61a4d6e746d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coinmarketcap/FrictionFree.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_azure_azure_eventhubs_0_6_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_sqljdbc4_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_predic8_soa_model_core_1_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_axis_axis_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_qpid_proton_j_0_12_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_servlet_api_6_0_45.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_47.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_47.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_3_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_3_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_3_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160212.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_3_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_ws_spring_ws_core_2_3_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_ws_spring_xml_2_3_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.classpath" afterPath="$PROJECT_DIR$/../Coinmarketcap/.classpath" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/.name" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/.name" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_5.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_5.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_5.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_5.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__com_microsoft_azure_azure_eventhubs_0_6_4.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__com_microsoft_azure_azure_eventhubs_0_6_4.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__com_microsoft_sqlserver_sqljdbc4_4_0.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__com_microsoft_sqlserver_sqljdbc4_4_0.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__com_predic8_soa_model_core_1_5_1.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__com_predic8_soa_model_core_1_5_1.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__joda_time_joda_time_2_9_4.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__joda_time_joda_time_2_9_4.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_apache_axis_axis_1_4.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_apache_axis_axis_1_4.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_2.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_2.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_2.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_2.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_apache_qpid_proton_j_0_12_0.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_apache_qpid_proton_j_0_12_0.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_apache_tomcat_servlet_api_6_0_45.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_apache_tomcat_servlet_api_6_0_45.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_47.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_47.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_47.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_47.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_3_9.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_3_9.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_3_9.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_3_9.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_3_9.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_3_9.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_json_json_20160212.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_json_json_20160212.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_jsoup_jsoup_1_11_2.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_jsoup_jsoup_1_11_2.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_16.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_16.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_3_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_3_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_3_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_3_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_3_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_3_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_3_3_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_3_3_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_spring_aop_4_0_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_spring_aop_4_0_9_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_spring_beans_4_0_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_spring_beans_4_0_9_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_spring_expression_4_0_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_spring_expression_4_0_9_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_5_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_spring_web_4_0_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_spring_web_4_0_9_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_9_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_ws_spring_ws_core_2_3_0_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_ws_spring_ws_core_2_3_0_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_springframework_ws_spring_xml_2_3_0_RELEASE.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_springframework_ws_spring_xml_2_3_0_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.project" afterPath="$PROJECT_DIR$/../Coinmarketcap/.project" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.settings/.jsdtscope" afterPath="$PROJECT_DIR$/../Coinmarketcap/.settings/.jsdtscope" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/../Coinmarketcap/.settings/org.eclipse.core.resources.prefs" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/../Coinmarketcap/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.settings/org.eclipse.ltk.core.refactoring.prefs" afterPath="$PROJECT_DIR$/../Coinmarketcap/.settings/org.eclipse.ltk.core.refactoring.prefs" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.settings/org.eclipse.m2e.core.prefs" afterPath="$PROJECT_DIR$/../Coinmarketcap/.settings/org.eclipse.m2e.core.prefs" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.settings/org.eclipse.wst.common.component" afterPath="$PROJECT_DIR$/../Coinmarketcap/.settings/org.eclipse.wst.common.component" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="$PROJECT_DIR$/../Coinmarketcap/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="$PROJECT_DIR$/../Coinmarketcap/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/FrictionFree.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/WebContent/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../Coinmarketcap/WebContent/META-INF/MANIFEST.MF" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/WebContent/WEB-INF/lib/axis.jar" afterPath="$PROJECT_DIR$/../Coinmarketcap/WebContent/WEB-INF/lib/axis.jar" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/WebContent/WEB-INF/lib/commons-discovery-0.2.jar" afterPath="$PROJECT_DIR$/../Coinmarketcap/WebContent/WEB-INF/lib/commons-discovery-0.2.jar" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/WebContent/WEB-INF/lib/commons-logging.jar" afterPath="$PROJECT_DIR$/../Coinmarketcap/WebContent/WEB-INF/lib/commons-logging.jar" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/WebContent/WEB-INF/lib/jaxrpc.jar" afterPath="$PROJECT_DIR$/../Coinmarketcap/WebContent/WEB-INF/lib/jaxrpc.jar" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/WebContent/WEB-INF/lib/saaj.jar" afterPath="$PROJECT_DIR$/../Coinmarketcap/WebContent/WEB-INF/lib/saaj.jar" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/WebContent/WEB-INF/lib/webserviceutils.jar" afterPath="$PROJECT_DIR$/../Coinmarketcap/WebContent/WEB-INF/lib/webserviceutils.jar" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/WebContent/WEB-INF/lib/wsdl4j.jar" afterPath="$PROJECT_DIR$/../Coinmarketcap/WebContent/WEB-INF/lib/wsdl4j.jar" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/WebContent/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/WebContent/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/WebJobTemplate.iml" afterPath="$PROJECT_DIR$/../Coinmarketcap/WebJobTemplate.iml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/pom.xml" afterPath="$PROJECT_DIR$/../Coinmarketcap/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/generator/file/BodyFromURLDownloader.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/generator/file/BodyFromURLDownloader.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/generator/file/CoinmarketcapChecker.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/generator/file/CoinmarketcapChecker.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/generator/file/coinmarketcap.html" afterPath="$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/generator/file/coinmarketcap.html" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/DataToJSONConverter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/DataToJSONConverter.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/webjob/DataToJSONConverter.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/DatabaseDataRequester.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/DatabaseDataRequester.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/webjob/DatabaseDataRequester.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/EventHubDataSender.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/IDataConverter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/IDataConverter.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/webjob/IDataConverter.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/IDataSender.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/IDataSender.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/webjob/IDataSender.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/IDatabaseDataRequester.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/IDatabaseDataRequester.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/webjob/IDatabaseDataRequester.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/ISSLManager.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/IWebServiceDataRequester.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/MessageLogger.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/MessageLogger.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/webjob/MessageLogger.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/PropertiesFileReader.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/SSLManager.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/SmartMeterDataController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/SmartMeterDevicesController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/WebJob.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/java/com/alliander/webjob/WebServiceDataRequester.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/data_controller_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/data_controller_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/database_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/database_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/devices_controller_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/devices_controller_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/event_hub_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/event_hub_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/log4j.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/management/SmartMeteringManagement.wsdl" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/management/SmartMeteringManagement.wsdl" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/management_service_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/management_service_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/monitoring/SmartMeteringMonitoring.wsdl" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/monitoring/SmartMeteringMonitoring.wsdl" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/monitoring_service_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/monitoring_service_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/schemas/common-public-lighting.xsd" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/schemas/common-public-lighting.xsd" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/schemas/common-smart-metering.xsd" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/schemas/common-smart-metering.xsd" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/schemas/pl-adhocmanagement.xsd" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/schemas/pl-adhocmanagement.xsd" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/schemas/sm-management.xsd" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/schemas/sm-management.xsd" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/schemas/sm-monitoring.xsd" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/schemas/sm-monitoring.xsd" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/main/resources/ssl_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/ssl_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/src/test/java/CGI/Stage/FrictionFree/TestDataToJSONConverter.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/src/test/java/CGI/Stage/FrictionFree/TestDataToJSONConverter.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/generator/file/BodyFromURLDownloader.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/generator/file/BodyFromURLDownloader.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/generator/file/CoinmarketcapChecker.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/generator/file/CoinmarketcapChecker.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/Action.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/Action.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/AlarmType.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/AlarmType.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/AmrProfileStatusCodeFlag.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/AmrProfileStatusCodeFlag.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/AsyncProcessingInfo.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/AsyncProcessingInfo.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/AsyncRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/AsyncRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/AsyncResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/AsyncResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/Command.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/Command.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/Device.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/Device.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/DevicePage.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/DevicePage.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/Event.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/Event.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/EventLogCategory.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/EventLogCategory.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/EventType.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/EventType.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/FindEventsAsyncRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/FindEventsAsyncRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/FindEventsAsyncResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/FindEventsAsyncResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/FindEventsQuery.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/FindEventsQuery.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/FindEventsRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/FindEventsRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/FindEventsResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/FindEventsResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/FunctionalFault.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/FunctionalFault.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/GetDevicesRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/GetDevicesRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/GetDevicesResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/GetDevicesResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/ObjectFactory.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/ObjectFactory.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/OsgpResultType.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/OsgpResultType.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/OsgpUnitType.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/OsgpUnitType.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/Page.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/Page.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/Query.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/Query.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/TechnicalFault.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/TechnicalFault.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/management/package-info.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/management/package-info.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/Action.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/Action.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsAsyncRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsAsyncRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsAsyncResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsAsyncResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsGasAsyncRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsGasAsyncRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsGasAsyncResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsGasAsyncResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsGasRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsGasRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsGasResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsGasResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ActualMeterReadsResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/AlarmRegister.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/AlarmRegister.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/AlarmType.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/AlarmType.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/AmrProfileStatusCode.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/AmrProfileStatusCode.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/AmrProfileStatusCodeFlag.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/AmrProfileStatusCodeFlag.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/AsyncProcessingInfo.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/AsyncProcessingInfo.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/AsyncRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/AsyncRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/AsyncResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/AsyncResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/Command.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/Command.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/EMeterValue.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/EMeterValue.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/FunctionalFault.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/FunctionalFault.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/GMeterValue.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/GMeterValue.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ObjectFactory.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ObjectFactory.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/OsgpResultType.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/OsgpResultType.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/OsgpUnitType.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/OsgpUnitType.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/Page.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/Page.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodType.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodType.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReads.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReads.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsAsyncRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsAsyncRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsAsyncResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsAsyncResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGas.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGas.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasAsyncRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasAsyncRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasAsyncResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasAsyncResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicMeterReadsResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicReadsRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicReadsRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/PeriodicReadsRequestData.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/PeriodicReadsRequestData.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/Query.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/Query.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ReadAlarmRegisterAsyncRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ReadAlarmRegisterAsyncRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ReadAlarmRegisterAsyncResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ReadAlarmRegisterAsyncResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ReadAlarmRegisterRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ReadAlarmRegisterRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/ReadAlarmRegisterResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/ReadAlarmRegisterResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/RetrievePushNotificationAlarmRequest.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/RetrievePushNotificationAlarmRequest.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/RetrievePushNotificationAlarmResponse.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/RetrievePushNotificationAlarmResponse.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/TechnicalFault.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/TechnicalFault.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/jaxb2/monitoring/package-info.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/jaxb2/monitoring/package-info.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/DataToJSONConverter.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/DataToJSONConverter.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/DatabaseDataRequester.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/DatabaseDataRequester.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/EventHubDataSender.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/EventHubDataSender.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/IDataConverter.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/IDataConverter.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/IDataSender.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/IDataSender.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/IDatabaseDataRequester.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/IDatabaseDataRequester.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/ISSLManager.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/ISSLManager.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/IWebServiceDataRequester.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/IWebServiceDataRequester.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/MessageLogger.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/MessageLogger.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/PropertiesFileReader.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/PropertiesFileReader.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/SSLManager$1.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/SSLManager$1.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/SSLManager$2.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/SSLManager$2.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/SSLManager.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/SSLManager.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/SmartMeterDataController$1.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/SmartMeterDataController$1.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/SmartMeterDataController.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/SmartMeterDataController.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/SmartMeterDevicesController.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/SmartMeterDevicesController.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/WebJob.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/WebJob.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/WebServiceDataRequester$1.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/WebServiceDataRequester$1.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/com/alliander/webjob/WebServiceDataRequester.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/com/alliander/webjob/WebServiceDataRequester.class" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/data_controller_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/data_controller_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/database_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/database_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/devices_controller_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/devices_controller_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/event_hub_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/event_hub_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/log4j.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/log4j.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/management/SmartMeteringManagement.wsdl" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/management/SmartMeteringManagement.wsdl" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/management_service_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/management_service_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/monitoring/SmartMeteringMonitoring.wsdl" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/monitoring/SmartMeteringMonitoring.wsdl" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/monitoring_service_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/monitoring_service_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/schemas/common-public-lighting.xsd" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/schemas/common-public-lighting.xsd" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/schemas/common-smart-metering.xsd" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/schemas/common-smart-metering.xsd" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/schemas/pl-adhocmanagement.xsd" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/schemas/pl-adhocmanagement.xsd" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/schemas/sm-management.xsd" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/schemas/sm-management.xsd" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/schemas/sm-monitoring.xsd" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/schemas/sm-monitoring.xsd" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/classes/ssl_config.properties" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/classes/ssl_config.properties" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Action.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Action.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/AlarmType.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/AlarmType.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/AmrProfileStatusCodeFlag.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/AmrProfileStatusCodeFlag.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/AsyncProcessingInfo.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/AsyncProcessingInfo.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/AsyncRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/AsyncRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/AsyncResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/AsyncResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Command.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Command.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Device.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Device.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/DevicePage.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/DevicePage.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Event.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Event.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/EventLogCategory.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/EventLogCategory.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/EventType.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/EventType.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FindEventsAsyncRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FindEventsAsyncRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FindEventsAsyncResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FindEventsAsyncResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FindEventsQuery.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FindEventsQuery.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FindEventsRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FindEventsRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FindEventsResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FindEventsResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FunctionalFault.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/FunctionalFault.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/GetDevicesRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/GetDevicesRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/GetDevicesResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/GetDevicesResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/ObjectFactory.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/ObjectFactory.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/OsgpResultType.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/OsgpResultType.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/OsgpUnitType.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/OsgpUnitType.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Page.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Page.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Query.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/Query.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/TechnicalFault.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/TechnicalFault.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-management/com/alliander/jaxb2/management/package-info.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-management/com/alliander/jaxb2/management/package-info.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/Action.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/Action.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsAsyncRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsAsyncRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsAsyncResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsAsyncResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsGasAsyncRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsGasAsyncRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsGasAsyncResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsGasAsyncResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsGasRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsGasRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsGasResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsGasResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ActualMeterReadsResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AlarmRegister.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AlarmRegister.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AlarmType.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AlarmType.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AmrProfileStatusCode.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AmrProfileStatusCode.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AmrProfileStatusCodeFlag.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AmrProfileStatusCodeFlag.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AsyncProcessingInfo.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AsyncProcessingInfo.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AsyncRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AsyncRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AsyncResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/AsyncResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/Command.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/Command.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/EMeterValue.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/EMeterValue.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/FunctionalFault.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/FunctionalFault.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/GMeterValue.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/GMeterValue.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ObjectFactory.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ObjectFactory.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/OsgpResultType.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/OsgpResultType.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/OsgpUnitType.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/OsgpUnitType.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/Page.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/Page.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodType.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodType.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReads.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReads.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsAsyncRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsAsyncRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsAsyncResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsAsyncResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGas.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGas.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasAsyncRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasAsyncRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasAsyncResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasAsyncResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsGasResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicMeterReadsResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicReadsRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicReadsRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicReadsRequestData.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/PeriodicReadsRequestData.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/Query.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/Query.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ReadAlarmRegisterAsyncRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ReadAlarmRegisterAsyncRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ReadAlarmRegisterAsyncResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ReadAlarmRegisterAsyncResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ReadAlarmRegisterRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ReadAlarmRegisterRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ReadAlarmRegisterResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/ReadAlarmRegisterResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/RetrievePushNotificationAlarmRequest.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/RetrievePushNotificationAlarmRequest.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/RetrievePushNotificationAlarmResponse.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/RetrievePushNotificationAlarmResponse.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/TechnicalFault.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/TechnicalFault.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/package-info.java" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/generated-sources/xjc-monitoring/com/alliander/jaxb2/monitoring/package-info.java" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/jaxb2/.xjc-management-xjcStaleFlag" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/jaxb2/.xjc-management-xjcStaleFlag" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/jaxb2/.xjc-monitoring-xjcStaleFlag" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/jaxb2/.xjc-monitoring-xjcStaleFlag" />
+      <change beforePath="$PROJECT_DIR$/../WebJobTemplate/target/test-classes/CGI/Stage/FrictionFree/TestDataToJSONConverter.class" afterPath="$PROJECT_DIR$/../Coinmarketcap/target/test-classes/CGI/Stage/FrictionFree/TestDataToJSONConverter.class" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../Coinmarketcap/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CoinmarketcapChecker.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/generator/file/CoinmarketcapChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/generator/file/BodyFromURLDownloader.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="220" />
+    <option name="y" value="-18" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CoinmarketcapChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coinmarketcap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoinmarketcapChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coinmarketcap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoinmarketcapChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coinmarketcap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoinmarketcapChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coinmarketcap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoinmarketcapChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coinmarketcap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alliander" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoinmarketcapChecker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coinmarketcap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alliander" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84e3cd14-4d20-43da-9c3f-a61a4d6e746d" name="Default" comment="" />
+      <created>1513966959187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513966959187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/generator/file/BodyFromURLDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Coinmarketcap/src/main/java/com/alliander/generator/file/CoinmarketcapChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
