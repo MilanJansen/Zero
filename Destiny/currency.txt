@@ -1,0 +1,100 @@
+1,Bitcoin,14539.30
+2,Ethereum,721.94
+3,Bitcoin Cash,2946.39
+4,Ripple,1.15
+5,Litecoin,282.10
+6,IOTA,3.96
+7,Cardano,0.419901
+8,Dash,1228.54
+9,NEM,0.882972
+10,Monero,383.11
+11,Bitcoin Gold,319.31
+12,EOS,8.92
+13,Stellar,0.231695
+14,NEO,61.42
+15,Qtum,52.87
+16,Ethereum Classic,33.06
+17,Verge,0.198884
+18,TRON,0.039282
+19,Lisk,20.39
+20,BitConnect,302.88
+21,Zcash,549.92
+22,Populous,40.06
+23,OmiseGO,14.32
+24,Nxt,1.46
+25,BitShares,0.528770
+26,Waves,13.28
+27,Hshare,30.60
+28,Tether,1.03
+29,Ardor,1.17
+30,Komodo,11.09
+31,Stratis,11.29
+32,Bytecoin,0.005633
+33,Augur,76.34
+34,Dogecoin,0.006777
+35,Steem,3.04
+36,Siacoin,0.022731
+37,Veritaseum,346.52
+38,MonaCoin,11.46
+39,Ark,6.42
+40,RaiBlocks,4.49
+41,Decred,79.62
+42,SALT,9.82
+43,Status,0.145331
+44,Electroneum,0.098870
+45,Golem,0.571890
+46,PIVX,8.53
+47,BitcoinDark,363.59
+48,DigiByte,0.048606
+49,Binance Coin,4.69
+50,Santiment Net...,6.54
+51,Byteball Bytes,605.28
+52,VeChain,1.35
+53,Walton,14.34
+54,Bytom,0.354002
+55,TenX,3.31
+56,Power Ledger,0.944035
+57,Basic Attenti...,0.330256
+58,MaidSafeCoin,0.725886
+59,DigixDAO,159.37
+60,QASH,0.909289
+61,Factom,35.46
+62,ReddCoin,0.010741
+63,Vertcoin,7.21
+64,Aeternity,1.29
+65,Syscoin,0.560825
+66,ZCoin,79.64
+67,Kyber Network,2.15
+68,0x,0.529208
+69,Gas,28.19
+70,GameCredits,3.64
+71,Ethos,3.03
+72,FunFair,0.053614
+73,Einsteinium,1.05
+74,BitBay,0.219185
+75,Aion,3.64
+76,Dragonchain,0.884468
+77,GXShares,5.16
+78,Cryptonex,4.63
+79,ChainLink,0.590964
+80,Decentraland,0.090837
+81,Civic,0.591993
+82,Iconomi,2.02
+83,Edgeless,2.32
+84,Nexus,3.47
+85,Gnosis,167.90
+86,Monaco,14.70
+87,Raiden Networ...,3.45
+88,Request Network,0.266935
+89,Bancor,4.02
+90,Ubiq,4.22
+91,Blocknet,33.02
+92,Metal,8.25
+93,Time New Bank,0.095965
+94,Dent,0.014394
+95,Substratum,0.649787
+96,Centra,2.14
+97,Streamr DATAcoin,0.213080
+98,NAV Coin,2.27
+99,SONM,0.385453
+100,Groestlcoin,1.94
